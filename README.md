@@ -1,4 +1,4 @@
-# Introduction
+# 介绍 - Introduction
 
 One of the important uses of Synology NAS is to set up a home media server, and transcoding plays a crucial role in home media services. The hardware decoder integrated in GPUs provides this capability.
 
@@ -30,7 +30,7 @@ Thanks a lot for the contributions of all the predecessors.
 - vGPU unlock: [Origin verison](https://github.com/DualCoder/vgpu_unlock)     [Rust version](https://github.com/mbilker/vgpu_unlock-rs)
 
 
-# 关于作者
+# 关于作者 - About
 > 作者：皮蛋熊(pdbear)
 
 > Q群： 573116017 [点击链接加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=YPukrbI0y7qf2rwNBcmFJP1kByHvKEfj&authKey=pLauhwKPXF4jyiytVui230c1I%2FQayP%2BHox6W87%2FXnWqRRlsOQPUljlRzM9tuU9NG&noverify=0&group_code=573116017)
