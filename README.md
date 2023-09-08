@@ -1,3 +1,9 @@
+# Attention
+请慎重使用该驱动，如果您使用该驱动导致了数据损毁，系统故障等问题，本人概不负责。
+
+Please use this driver with caution. If you encounter data loss, system malfunction or any other issues caused by the use of this driver, I will not be responsible for any damages.
+
+
 # 介绍 - Introduction
 
 One of the important uses of Synology NAS is to set up a home media server, and transcoding plays a crucial role in home media services. The hardware decoder integrated in GPUs provides this capability.
@@ -18,10 +24,10 @@ In order to enable Synology NAS to utilize Nvidia GPUs, I have conducted relevan
 # 教程 - Usage
 
 - 中文简体: https://blog.kkk.rs/archives/12
-- English: wait
+- English: https://blog.kkk.rs/archives/17
 
 
-# 相关教程 - Related
+# 相关仓库 - Related repo
 Thanks a lot for the contributions of all the predecessors.
 
 - ARPL-i18n(Xpenology): https://github.com/wjz304/arpl-i18n
