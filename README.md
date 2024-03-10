@@ -15,17 +15,24 @@ In order to enable Synology NAS to utilize Nvidia GPUs, I have conducted relevan
 为了让群晖能够使用Nvidia的GPU，本人为此进行相关的适配，目前可以完整支持GPU和GRID vGPU，同时支持白群晖 + GPU，物理黑群晖 + GPU，虚拟黑群晖 + 直通GPU，虚拟黑群晖 + GRID vGPU。
 
 # 特性 - Feature
-- Base GPU Driver Version: 510.108.03
-- Most DSM support：all x86_64 platform with kernel version 4.4.302+.
-- Most vGPU support：Tesla P4, P40, T4， and vgpu_unlock.
+- Base GPU Driver Version: 510.108.03 -> 525.105.17
+- Most DSM support：all x86_64 platform with 7.1+ version.
+- Most vGPU support：Tesla P4, P40, T4， and 40HX/2080Ti/2060(vgpu_unlock).
 - Most GPU support: from 750Ti to 3090Ti.
 
 
 # 教程 - Usage
 
-- 中文简体: https://blog.kkk.rs/archives/12
+- 中文简体: https://blog.kkk.rs/archives/12 (full)
 - English: https://blog.kkk.rs/archives/17
 
+---
+
+xxxx-sign.spk need with https://github.com/XPEnology-Community/SimplePermissionManager (thansks @jim3ma )
+
+xxxx-unsign.spk need with ssh `vgpuDaemon fix`
+
+---
 
 # 相关仓库 - Related repo
 Thanks a lot for the contributions of all the predecessors.
@@ -42,3 +49,4 @@ Thanks a lot for the contributions of all the predecessors.
 > Q群： 573116017 [点击链接加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=YPukrbI0y7qf2rwNBcmFJP1kByHvKEfj&authKey=pLauhwKPXF4jyiytVui230c1I%2FQayP%2BHox6W87%2FXnWqRRlsOQPUljlRzM9tuU9NG&noverify=0&group_code=573116017)
 
 > Telegram: Synology Nvidia GPU [join group](https://t.me/+FJef7el3Q_M1MjY1)
+
