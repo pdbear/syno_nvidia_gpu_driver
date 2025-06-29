@@ -15,10 +15,10 @@ In order to enable Synology NAS to utilize Nvidia GPUs, I have conducted relevan
 为了让群晖能够使用Nvidia的GPU，本人为此进行相关的适配，目前可以完整支持GPU和GRID vGPU，同时支持白群晖 + GPU，物理黑群晖 + GPU，虚拟黑群晖 + 直通GPU，虚拟黑群晖 + GRID vGPU。
 
 # 特性 - Feature
-- Base GPU Driver Version: 510.108.03 -> 525.105.17 -> 535.154.05
+- Base GPU Driver Version: 510.108.03 -> 525.105.17 -> 535.154.05 -> 550
 - Most DSM support：all x86_64 platform with 7.2+ version.
 - Most vGPU support：Tesla P4, P40, T4， and 40HX/2080Ti/2060(vgpu_unlock).
-- Most GPU support: from 750Ti to 3090.
+- Most GPU support: from 750Ti to 40+.
 
 
 # 教程 - Usage
