@@ -46,7 +46,7 @@ Thanks a lot for the contributions of all the predecessors.
 # 关于作者 - About
 > 作者：皮蛋熊(pdbear)
 
-> Q群： 573116017 [点击链接加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=YPukrbI0y7qf2rwNBcmFJP1kByHvKEfj&authKey=pLauhwKPXF4jyiytVui230c1I%2FQayP%2BHox6W87%2FXnWqRRlsOQPUljlRzM9tuU9NG&noverify=0&group_code=573116017)
+> Q群： 存于网站 [关于蔚然小站](https://blog.kkk.rs/about) 关于页面中
 
 > Telegram: Synology Nvidia GPU [join group](https://t.me/+FJef7el3Q_M1MjY1)
 
