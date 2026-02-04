@@ -25,6 +25,7 @@ In order to enable Synology NAS to utilize Nvidia GPUs, I have conducted relevan
 
 - 中文简体: https://blog.kkk.rs/archives/12 (full)
 - English: https://blog.kkk.rs/archives/17
+- 粤语版本: https://blog.kkk.rs/archives/25
 
 ---
 
