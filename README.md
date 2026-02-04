@@ -48,6 +48,7 @@ Thanks a lot for the contributions of all the predecessors.
 
 # NVIDIA Linux 驱动版本 - Specific Driver Versions
 - NVIDIA Linux x86_64 331.13: https://download.nvidia.com/XFree86/Linux-x86_64/331.13/
+- NVIDIA Linux x86_64 331.17: https://download.nvidia.com/XFree86/Linux-x86_64/331.17/
 
 
 # 关于作者 - About
