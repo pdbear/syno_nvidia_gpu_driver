@@ -42,6 +42,10 @@ Thanks a lot for the contributions of all the predecessors.
 - vGPU Driver archive: https://github.com/justin-himself/NVIDIA-VGPU-Driver-Archive
 - vGPU unlock: [Origin verison](https://github.com/DualCoder/vgpu_unlock)     [Rust version](https://github.com/mbilker/vgpu_unlock-rs)
 
+# NVIDIA 官方驱动 - Official Drivers
+- NVIDIA Unix Drivers (Linux): https://www.nvidia.com/drivers/unix/
+- NVIDIA Linux x86_64 Archive: https://download.nvidia.com/XFree86/Linux-x86_64/
+
 
 # 关于作者 - About
 > 作者：皮蛋熊(pdbear)
