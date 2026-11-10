@@ -48,5 +48,4 @@ Thanks a lot for the contributions of all the predecessors.
 
 > Q群： 存于网站 [关于蔚然小站](https://blog.kkk.rs/about) 关于页面中
 
-> Telegram: Synology Nvidia GPU [join group](https://t.me/+FJef7el3Q_M1MjY1)
 
